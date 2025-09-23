@@ -26,7 +26,7 @@ A Python script that fetches **trending GitHub repositories** created in the las
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/github-trending-scraper.git
+   git clone https://github.com/SharmaVrishab/github-trending-repositories-tracker_v2
    cd github-trending-scraper
    ```
 
