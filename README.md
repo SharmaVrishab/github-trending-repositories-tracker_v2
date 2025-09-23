@@ -232,8 +232,8 @@ pip install -r requirements.txt
 ## 📞 Contact
 
 - **Author**: Vrishab
-- **GitHub**: [@yourusername](https://github.com/sharmavrishab)
-- **Project Link**: [https://github.com/yourusername/github-trending-scraper](https://github.com/yourusername/github-trending-scraper)
+- **GitHub**: (https://github.com/sharmavrishab)
+- **Project Link**: (https://github.com/SharmaVrishab/github-trending-repositories-tracker_v2)
 
 ---
 
